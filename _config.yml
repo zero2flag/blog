@@ -1,6 +1,6 @@
 # Site settings
 title: Zero2Flag
-description: Projeto Zero2Flag 
+description: Ensinando conceitos de cybersecurity e hacking para pessoas que estão começando na área ou se interessam, por meio do jogo de Capture the Flag, um jeito divertido de aprender segurança na prática. 
 cover: assets/images/background.jpeg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -25,7 +25,6 @@ github:  github
 #Additional Pages
 about: about
 contact: contact
-privacy-policy: privacy-policy
 
 
 permalink: /:title
