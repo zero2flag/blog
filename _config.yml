@@ -1,7 +1,7 @@
 # Site settings
 title: Zero2Flag
 description: Projeto Zero2Flag 
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/background.jpeg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/zero2flag/" # the subpath of your site, e.g. /blog/ or / for root
