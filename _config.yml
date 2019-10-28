@@ -4,8 +4,8 @@ description: Ensinando conceitos de cybersecurity e hacking para pessoas que est
 cover: assets/images/background.jpeg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/zero2flag/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://raphabarreto.com.br" # the base hostname & protocol for your site
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://zero2flag.github.io" # the base hostname & protocol for your site
 
 pagination:
 
@@ -46,13 +46,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: raphabarreto #github username
-repo: zero2flag #github repository
+username: zero2flag #github username
+repo: blog #github repository
 branch: master #branch
 relative_source: ../zero2flag/ #source directory
 destination: ../zero2flag-pages/ #destination directory
-production_url:  https://raphabarreto.com/
-source_url:  https://github.com/raphabarreto/zero2flag #source repository url
+production_url:  https://zero2flag.github.io/
+source_url:  https://github.com/zero2flag/blog #source repository url
 
 exclude:
   - README.md
