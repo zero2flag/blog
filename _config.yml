@@ -49,7 +49,7 @@ lsi: False
 username: zero2flag #github username
 repo: blog #github repository
 branch: master #branch
-relative_source: ../zero2flag/ #source directory
+relative_source: ../blog/ #source directory
 destination: ../zero2flag-pages/ #destination directory
 production_url:  https://zero2flag.github.io/
 source_url:  https://github.com/zero2flag/blog #source repository url
